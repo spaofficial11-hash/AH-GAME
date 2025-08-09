@@ -1,6 +1,7 @@
 class Constants {
   // API Base URL
-  static const String baseUrl = "https://your-backend-url.com/api";
+  static const String baseUrl = "https://ah-game-backend-iezb.onrender.com/api";
+  static const String apiKey = "ah_game_2025";
 
   // Color Trading Timer
   static const int colorTradingInterval = 30; // in seconds
