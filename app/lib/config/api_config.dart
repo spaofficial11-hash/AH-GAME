@@ -1,3 +1,2 @@
-class ApiConfig {
-  static const String baseUrl = "https://ah-game-backend-iezb.onrender.com/api";
-}
+const String backendUrl = "https://ah-game-backend-iezb.onrender.com";
+const String apiKey = "ah_game_2025";
